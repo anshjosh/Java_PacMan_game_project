@@ -7,4 +7,5 @@ A Java Pac-Man game project typically involves creating a simplified version of 
 > Power Pellets: Special items that allow Pac-Man to temporarily turn the tables and eat ghosts.
 > Score System: Keeps track of points earned by collecting dots and eating ghosts.
 > Game Logic: Includes win/loss conditions, such as clearing all dots to win or losing lives when caught by ghosts.
+
 This type of project is great for learning Java programming concepts like object-oriented design, game loops, collision detection, and simple AI for ghost movement.
